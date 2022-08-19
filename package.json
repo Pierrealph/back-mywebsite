@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pierre Alphonse",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "generate-gitignore": "^0.2.6"
+  }
 }
